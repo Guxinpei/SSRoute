@@ -10,6 +10,12 @@ namespace SSRoute;
 
 interface Parser {
 
+    const ERROR_NOT_FOUND = 0;
+
+    const ERROR_METHOD = -1;
+
+    const SUCCESS = true;
+
     /**解析路由方法
      * @param $route
      * @return mixed
