@@ -12,9 +12,9 @@ interface Parser {
 
     const ERROR_NOT_FOUND = 0;
 
-    const ERROR_METHOD = -1;
+    const HTTP_METHOD_ERROR = -1;
 
-    const SUCCESS = true;
+    const SUCCESS = 1;
 
     /**解析路由方法
      * @param $route

@@ -18,6 +18,9 @@ interface Register {
      */
     public function registe($urlRoute, $method, $handler);
 
+    /**获取所有注册路由的数据
+     * @return array
+     */
     public function getAllData();
 
 

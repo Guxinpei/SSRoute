@@ -1,11 +1,11 @@
 {
-    "name": "rogergu/ss-router",
+    "name": "administrator/ss-router",
     "description": "ss mean:stay simple, stay navie. Let's try to make everything EZ.",
     "license": "MIT",
     "authors": [
         {
-            "name": "顾新培培子",
-            "email": "roger_gu@sinobasedm.com"
+            "name":  "Roger",
+            "email": "guxinpei@qq.com"
         }
     ],
     "require": {}
